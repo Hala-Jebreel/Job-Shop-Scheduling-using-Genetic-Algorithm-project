@@ -24,9 +24,9 @@ We applied a genetic algorithm that:
 
 ---
 
-## 🚀 How It Works
+##  How It Works
 
-### ✨ Features
+### Features
 - Chromosome-based encoding of job sequences.
 - Fitness function based on makespan.
 - Parent selection via tournament.
